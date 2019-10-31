@@ -12,6 +12,7 @@ public class Stats {
         }
         int N = numbers.size();
 
+
         double sum = 0.0;
         for (double x : numbers) {
             sum += x;
